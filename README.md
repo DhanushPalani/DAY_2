@@ -46,4 +46,5 @@
 </body>
 </html>
 ```
-
+### OUTPUT:
+![image](https://github.com/DhanushPalani/DAY_2/assets/121594640/c0899ccb-0182-4b3f-a132-84615aa13804)
